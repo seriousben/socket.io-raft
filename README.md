@@ -1,5 +1,7 @@
 # socket.io-raft
 
+[![NPM version](https://badge.fury.io/js/socket.io-raft.svg)](http://badge.fury.io/js/socket.io-raft)
+
 Adapter to enable broadcasting of events to multiple separate socket.io server nodes without third-party dependencies.
 
 ## Raft
